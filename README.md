@@ -1,10 +1,10 @@
 # [![IOPA](http://iopa.io/iopa.png)](http://iopa.io)<br> iopa-templates 
 
-[![Build Status](https://api.shippable.com/projects/56e23af39d043da07bb6ff01/badge?branchName=master)](https://app.shippable.com/projects/56e23af39d043da07bb6ff01) 
+[![Build Status](https://api.shippable.com/projects/56e325fd9d043da07bc08ef3/badge?branchName=master)](https://app.shippable.com/projects/56e325fd9d043da07bc08ef3) 
 [![IOPA](https://img.shields.io/badge/iopa-middleware-99cc33.svg?style=flat-square)](http://iopa.io)
 [![limerun](https://img.shields.io/badge/limerun-certified-3399cc.svg?style=flat-square)](https://nodei.co/npm/limerun/)
 
-[![NPM](https://nodei.co/npm/iopa-template-handlebars.png?downloads=true)](https://nodei.co/npm/iopa-template-handlebars/)
+[![NPM](https://nodei.co/npm/iopa-templates.png?downloads=true)](https://nodei.co/npm/iopa-templates/)
 
 ## About
 `iopa-templates` is IOPA middleware for rendering templates using template engine such as handlebars, moustache, dust, razor, etc
